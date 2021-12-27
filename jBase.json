@@ -1,0 +1,20 @@
+{
+  mococa:{
+    1: {
+      local: 'Balcao Unico',
+      bp: '174740',
+      ip: '10.88.189.194',
+      sn: 'PE0703ZL',
+      mesa: 'Mesa Atendimento 01',
+      hostname: 'MOCUNIM01174740'
+    },
+    2:{
+      local: 'Balcao Unico',
+      bp: '174741',
+      ip: '10.88.189.195',
+      sn: 'PE07045E',
+      mesa: 'Mesa Atendimento 02',
+      hostname: 'MOCUNIM02174741' 
+    }
+  }
+}
