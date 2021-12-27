@@ -1,6 +1,6 @@
 {
-  mococa:{
-    1: {
+  mococa:[
+    pc: {
       local: 'Balcao Unico',
       bp: '174740',
       ip: '10.88.189.194',
@@ -8,7 +8,7 @@
       mesa: 'Mesa Atendimento 01',
       hostname: 'MOCUNIM01174740'
     },
-    2:{
+    pc:{
       local: 'Balcao Unico',
       bp: '174741',
       ip: '10.88.189.195',
@@ -16,5 +16,5 @@
       mesa: 'Mesa Atendimento 02',
       hostname: 'MOCUNIM02174741' 
     }
-  }
+  ]
 }
