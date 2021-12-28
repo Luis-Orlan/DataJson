@@ -1,12 +1,12 @@
 {
-  mococa:{
-    pc: {
-      local: 'Balcao Unico',
-      bp: '174740',
-      ip: '10.88.189.194',
-      sn: 'PE0703ZL',
-      mesa: 'Mesa Atendimento 01',
-      hostname: 'MOCUNIM01174740'
+  "mococa":{
+    "pc": {
+      "local": "Balcao Unico",
+      "bp": "174740",
+      "ip": "10.88.189.194",
+      "sn": "PE0703ZL',
+      "mesa": "Mesa Atendimento 01",
+      "hostname": "MOCUNIM01174740"
     }
   }
 }
