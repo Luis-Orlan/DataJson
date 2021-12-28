@@ -1,5 +1,5 @@
 {
-  mococa:[
+  mococa:{
     pc: {
       local: 'Balcao Unico',
       bp: '174740',
@@ -16,5 +16,5 @@
       mesa: 'Mesa Atendimento 02',
       hostname: 'MOCUNIM02174741' 
     }
-  ]
+  }
 }
