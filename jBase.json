@@ -1,5 +1,5 @@
 {
-  ["mococa":{
+  "mococa":[
     "pc": {
       "local":"Balcao Unico",
       "bp":"174740",
@@ -8,7 +8,7 @@
       "mesa":"Mesa Atendimento 01",
       "hostname":"MOCUNIM01174740"
     }
-  }],["mococa":{
+  ],"mococa":[{
     "pc": {
       "local":"Balcao Unico",
       "bp":"174740",
